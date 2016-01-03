@@ -1,0 +1,5 @@
+1.git clone https://github.com/df259630/app.git
+2.cd app
+3.git add -A
+4.git commit -m"Openshif-"
+5.git push
